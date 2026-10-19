@@ -1,0 +1,3 @@
+<resources>
+    <string name="exercise_summary">%1$s\n%2$d세트 × %3$d회</string>
+</resources>
